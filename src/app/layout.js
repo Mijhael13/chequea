@@ -14,9 +14,6 @@ const geistMono = Geist_Mono({
 export const metadata = {
   title: "Chequea - Consulta de Precios",
   description: "Consulta de precios en tiempo real",
-  icons: {
-    icon: "/logo.jpg",
-  },
 };
 
 export default function RootLayout({ children }) {
